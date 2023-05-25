@@ -8,3 +8,7 @@ while(i>0):
         print("palindrome number")
     else:
             print("not palindrome")
+            
+            
+output:enter a number13
+not palindrome
