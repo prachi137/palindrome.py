@@ -13,4 +13,4 @@ def isPrime(n):
   
 
 print("true") if isPrime(11) else print("false")
-print("true") if isPrime(14) else print("false"
+print("true") if isPrime(14) else print("false")
